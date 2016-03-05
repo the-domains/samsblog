@@ -1,6 +1,6 @@
 name: samsblog
 favicon: null
-layout_spectrum: 0.8221432671416551
+layout_spectrum: 0.90364
 typography_spectrum: 0.981012140866369
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.0935234553180635
+  brandStrength: 0.5
   lightness: 0.18493351223878562
   saturation: 0.09235462942160666
   rhythmicContrast: 0.4935162295587361
