@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[samsblog]]></title>
         <description><![CDATA[samsblog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/samsblog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 16:10:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 01:52:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samsblog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined249d9174-d544-4b7f-9f83-4d183b2485d9/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed471f16-13b1-48a3-85f7-3a6a9f8a4d8f.jpg">]]></description>
+            <link>https://thegrid.ai/samsblog/my-dream-list/index.html</link>
+            <guid isPermaLink="false">53bf20a2-364f-4b1c-97de-bc75c7412522</guid>
+            <pubDate>Fri, 13 May 2016 01:51:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>WTF! Is the AI really building my site? </p>]]></description>
+            <link>https://thegrid.ai/samsblog/249d9174-d544-4b7f-9f83-4d183b2485d9/index.html</link>
             <guid isPermaLink="false">249d9174-d544-4b7f-9f83-4d183b2485d9</guid>
             <pubDate>Sat, 05 Mar 2016 16:10:05 GMT</pubDate>
         </item>
